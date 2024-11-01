@@ -1,0 +1,2 @@
+/home/kali/my_console_utility/CMakeFiles/edit_cache.dir
+/home/kali/my_console_utility/CMakeFiles/rebuild_cache.dir

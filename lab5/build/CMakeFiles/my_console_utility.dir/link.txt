@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/my_console_utility.dir/main.c.o CMakeFiles/my_console_utility.dir/user.c.o CMakeFiles/my_console_utility.dir/process.c.o CMakeFiles/my_console_utility.dir/help.c.o CMakeFiles/my_console_utility.dir/log.c.o CMakeFiles/my_console_utility.dir/errors.c.o -o my_console_utility
